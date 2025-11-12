@@ -1,5 +1,9 @@
-Welcome to PEWDD's documentation!
+PEWDD Documentation
 ===================================
+The Planetary Enriched White Dwarf Database (PEWDD) contains information on the abundances of planetary material accreting onto white dwarfs.
+The database will be kept up-to-date as new papers are published. If any white dwarfs that should be in PEWDD are missing, please raise an issue on `Github <https://github.com/jamietwilliams/PEWDD/>`_
+
+
 My name is Jamie , and this is PEWDD
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
