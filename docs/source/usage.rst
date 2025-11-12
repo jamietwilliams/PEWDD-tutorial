@@ -6,11 +6,15 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To install PEWDD, download it as a .csv file.
 
-.. code-block:: console
+Accessing PEWDD
+----------------
+To access PEWDD, I recommend using the Python pandas module.
 
-   (.venv) $ pip install lumache
+>>> import pandas as pd
+>>> PEWDD = df.read_csv('PEWDD.csv')
+
 
 Creating recipes
 ----------------
