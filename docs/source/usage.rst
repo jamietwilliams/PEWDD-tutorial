@@ -21,4 +21,4 @@ Each entry has a unique "Identifier" label which can be used to obtain informati
 
 Because several papers may use different names for the same white dwarf, I recommend using the "Gaia_designation" column to search for information on a white dwarf from several papers.
 
->>> G29-38 = PEWDD[PEWDD["Gaia_designation"] == "Gaia DR3 2660358032257156736"]
+>>> G29_38 = PEWDD[PEWDD["Gaia_designation"] == "Gaia DR3 2660358032257156736"]
