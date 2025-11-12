@@ -20,6 +20,6 @@ Acknowledgements
 --------
 This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 101020057).
 
-.. image:: /images/ERC.png
+.. image:: source/images/ERC.png
    :scale: 15%
    :align: center
