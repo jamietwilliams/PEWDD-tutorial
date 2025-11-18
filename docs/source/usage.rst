@@ -6,7 +6,14 @@ Usage
 Installation
 ------------
 
-To install PEWDD, download it as a .csv file.
+To access PEWDD, download it as a .csv file. To make any diagnostic plots, also download the PEWDD_functions.py file and all associated packages.
+
+>>> import pandas as pd
+>>> import numpy as np
+>>> import matplotlib.pyplot as plt
+>>> from random import randint
+>>> import matplotlib.lines as mlines
+>>> import PEWDD_functions as pf
 
 Accessing PEWDD
 ----------------
