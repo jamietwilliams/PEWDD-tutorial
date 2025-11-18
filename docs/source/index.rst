@@ -14,6 +14,7 @@ Contents
 .. toctree::
 
    usage
+   diagnosticplots
    api
 
 Acknowledgements
