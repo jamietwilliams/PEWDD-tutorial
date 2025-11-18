@@ -15,6 +15,8 @@ To access PEWDD, download it as a .csv file. To make any diagnostic plots, also 
 >>> import matplotlib.lines as mlines
 >>> import PEWDD_functions as pf
 
+Previous versions of PEWDD are data stamped. PEWDD.csv is the most up to date version.
+
 Accessing PEWDD
 ----------------
 To access PEWDD, I recommend using the Python pandas module.
